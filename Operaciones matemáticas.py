@@ -5,3 +5,6 @@ print('El resultado de la suma es:', a + b)
 
 # Agregamos nuevas operaciones
 print('El resultado de la multiplicación es', a * b)
+
+# Agrego una resta 
+print('El resultado de la resta es:', a - b)
