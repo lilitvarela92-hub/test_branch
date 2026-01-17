@@ -5,6 +5,3 @@ print('El resultado de la suma es:', a + b)
 
 # Agregamos nuevas operaciones
 print('El resultado de la multiplicación es', a * b)
-
-# Además podemos agregar una división
-print('El resultado de la división es:', a / b
